@@ -7,11 +7,14 @@ I ship products from Buenos Aires, Argentina.
 **[Psynth](https://psynth.ai)** — Clinical reporting that turns test results and intake into drafts psychologists review and sign
 Python/FastAPI + LLM orchestration
 
-**Dripnex** — A hackable, AI-native note taker. Local SQLite, agentic chat that acts on your own notes
+**[Dripnex](https://github.com/dripnex/app)** — A hackable, AI-native note taker. Local SQLite, agentic chat that acts on your own notes
 Electron/React + CodeMirror 6
 
 **DolarGaucho** — Quotes and a model that tracks the Argentine economic week
 Website + macOS menu bar app + desktop tray client
+
+**[Plumbline](https://github.com/tomymaritano/plumbline)** — Agent skills that check AI-written code against the philosophy of software design
+Claude Code plugin
 
 ## Currently
 
