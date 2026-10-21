@@ -1,4 +1,4 @@
-# Hey, I'm Tomás 👋
+# Hey, I'm Tomy 👋
 
 I ship products from Buenos Aires, Argentina.
 
