@@ -10,7 +10,8 @@ Python/FastAPI + LLM orchestration
 **[Dripnex](https://github.com/dripnex/app)** — A hackable, AI-native note taker. Local SQLite, agentic chat that acts on your own notes
 Electron/React + CodeMirror 6
 
-**[Plumbline Repo](https://github.com/tomymaritano/plumbline)** [Plumbline Documentation](https://tomymaritano.github.io/plumbline/) — Agent skills that check AI-written code against the philosophy of software design
+**[Plumbline Repo](https://github.com/tomymaritano/plumbline)** 
+**[Plumbline Documentation](https://tomymaritano.github.io/plumbline/)** — Agent skills that check AI-written code against the philosophy of software design
 Claude Code plugin
 
 ## Currently
